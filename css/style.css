@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: #A306B6;
+    height: 25vw;
+}
+
+header>nav>img{
+    width: 100px;
+    height: 100px;
+}
+ header>img{
+    width: 100px;
+    height: 100px;
+
+ }
+
+h1{
+    color: white;
+}
+
+footer{
+    background-color: #D9D9D9;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    height:150px; 
+}
+
+
+/****************** ↓↓ juste pour le visuel a sup ↓↓ ******************/
+img{
+    width: 100px;
+    height: 100px;
+}
