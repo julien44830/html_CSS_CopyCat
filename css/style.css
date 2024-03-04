@@ -133,11 +133,10 @@ section.cards article{
 }
 
 section.cards article img{
-        max-width: 200px;
-        max-height: 200px;
+    max-width: 200px;
+    max-height: 200px;
     margin: auto;
 }
-
 
 section.cards article p{
     background-color:#A306B6; 
@@ -154,7 +153,6 @@ section.cards article p a{
     color: white;
 }
 
-
 footer{
     background-color: #D9D9D9;
     position: fixed;
@@ -163,6 +161,7 @@ footer{
     text-align: center;
     height:75px; 
 }
+
 
 
 /****************** mobile display ******************/
